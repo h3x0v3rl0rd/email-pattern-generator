@@ -28,8 +28,10 @@ A Python script to generate email patterns from a given first name, last name, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/email-pattern-generator.git
+   git clone https://github.com/n3rdh4x0r/email-pattern-generator.git
    ```
+
+
 
 
 ```
