@@ -1,4 +1,35 @@
-# email_generator
+# Email Pattern Generator
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+A Python script to generate email patterns from a given first name, last name, and domain. The script supports generating over 100 email patterns and allows saving the results in `.txt`, `.json`, or `.xml` format.
+
+---
+
+## Features
+
+- Generates **100+ email patterns** based on the provided inputs.
+- Supports common email formats:
+  - `firstname.lastname@domain.com`
+  - `firstname_lastname@domain.com`
+  - `firstname-lastname@domain.com`
+  - `firstname@domain.com`
+  - `lastname@domain.com`
+  - And many more!
+- Saves the generated patterns to:
+  - `.txt` (plain text)
+  - `.json` (structured JSON)
+  - `.xml` (structured XML)
+
+---
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/email-pattern-generator.git
+   ```
 
 
 ```
