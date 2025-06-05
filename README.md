@@ -40,7 +40,7 @@ A Python script to generate email patterns from a given first name, last name, a
 
 ============================================================
                   Email Pattern Generator                   
-                  Developed by (n3rdh4x0r)                  
+                  Developed by (h3x0v3rl0rd)                  
 ============================================================
 Enter the following details:
 First Name: firstname
