@@ -148,7 +148,7 @@ def main():
     # Display author information
     print("\n" + "=" * 60)
     print("Email Pattern Generator".center(60))
-    print("Developed by (n3rdh4x0r)".center(60))
+    print("Developed by (h3x0v3rl0rd)".center(60))
     print("=" * 60)
 
     # Take inputs one by one
